@@ -1,33 +1,3 @@
--`project_root
-│
-├── data/
-│   ├── raw_data/            # Raw data besfore preprocessing
-│   ├── processed_data/      # Cleaned and preprocessed data
-│   ├── trained_models/      # Saved trained models
-│
-├── notebooks/               # Jupyter notebooks for experimentation and analysis
-│
-├── src/
-│   ├── data_preprocessing/   # Scripts for data cleaning and preprocessing
-│   ├── feature_engineering/  # Scripts for creating new features
-│   ├── model/                # Scripts for defining and training models
-│   ├── evaluation/           # Scripts for evaluating model performance
-│   ├── utils/                # Utility functions and helper scripts
-│
-├── config/                   # Configuration files
-│
-├── tests/                     # Unit tests and integration tests
-│
-├── docs/                      # Project documentation
-│
-├── requirements.txt           # List of project dependencies
-│
-├── README.md                  # Project overview, instructions, and documentation
-│
-├── main.py                    # Main script to run the AI system
-│
-└── .gitignore                 # Git ignore file to exclude certain files/directories`
-
 # Advanced AI Project
 
 Welcome to the Advanced AI Project! This project aims to [briefly describe the project's goal or purpose].
