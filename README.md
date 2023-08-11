@@ -1,4 +1,4 @@
-project_root/
+-`project_root
 │
 ├── data/
 │   ├── raw_data/            # Raw data besfore preprocessing
@@ -26,7 +26,7 @@ project_root/
 │
 ├── main.py                    # Main script to run the AI system
 │
-└── .gitignore                 # Git ignore file to exclude certain files/directories
+└── .gitignore                 # Git ignore file to exclude certain files/directories`
 
 # Advanced AI Project
 
